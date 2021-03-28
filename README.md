@@ -60,7 +60,7 @@ BA Hons Fashion Photography
 
 - Running: when I'm not at the desk I'm out in the hills. 
 - Photography of course. 
-- Cooking : Trying to perfect my own recipe for a Pho which I once had many moons ago. 
+- Cooking : I make a pretty good Pho, it's a work in progress. 
 
 ## Contact
 - Github: [phileeep](https://github.com/phileeep/)
