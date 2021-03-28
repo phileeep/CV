@@ -8,6 +8,8 @@ I am currently progressing through a 12 week intensive course run by [Makers Aca
 
 I'm currently looking to start a career that in the current circumstances is remote based where I can expand my skills and knowledge in all things web based as a full-stack developer. 
 
+**Tech Skills**: Ruby, Javascript, HTML, CSS
+
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
@@ -19,27 +21,20 @@ I'm currently looking to start a career that in the current circumstances is rem
 
 **Phil Smithies Photography** (September 2012 to January 2021)  
 _Photographer, Videographer & Digital Retoucher_
+
 Portfolio: [philsmithies.photo](http://www.philsmithies.photo)
 
 - During my role as a Freelance Music Photographer & Videographer I had the chance to work with a huge range of clients from many different backgrounds. I gained the ability to work well under stress often delivering jobs to clients withing short time frames, as well as being adaptable to do work to spec that would fit each clients needs. During my time in this role I was a Photographer, Videographer, Retoucher and Photo Assistant. 
 
 ## Skills
 
-- **Adaptable** - 
-- **Creative**
-- **Commitment**
-- **Working under pressure** - I've worked in the past often under pressure doing SDE's (Same Day Edits) which during I had to transition from working to short time frames and producing solid results was something that I believe is one of my strong points. I've taken this and used the same methodology with my study over the duration of the last three months of work during my time on the Makers intensive bootcamp. 
-- **Communication** - 
-- **Quick learning**
+- **Commitment** - Completing Makers Academy remote has been something that I am proud to say I've done. It has taken regular dedication and focus to overcome challenges especially when I've not been in a classroom but it has made me into the developer I am today.
 
-#### Another Skill
+- **Creative** - From working as a photographer I have developed a strong attention to detail. Often on my shoots I'd be looking for a new angle that we could work with and now I am combining my visual ability with my work as a developer. 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- **Working under pressure** - I've worked in the past often under pressure doing SDE's (Same Day Edits) which during I had to transition from working to short time frames and producing solid results was something that I believe is one of my strong points. I've taken this and used the same methodology with my study over the duration of the three months of work during my time on the Makers intensive bootcamp. 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- **Quick learning** - Throughout my time self learning and on the bootcamps I have finished I've been learning how to work between multiple technologies. Not being a 'tech evangelist' with languages I aim to  find the strengths of each technology I work with.
 
 ## Education
 
