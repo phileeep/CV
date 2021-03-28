@@ -1,6 +1,6 @@
 ## Phil Smithies
 
-[Projects](https://github.com/phileeep/CV/#projects) | [Experience](https://github.com/phileeep/CV/#experience) | [Skills](https://github.com/phileeep/CV/#skills) | [Education](https://github.com/phileeep/CV/#education) | [Hobbies](https://github.com/phileeep/CV/#hobbies) | [Contact](https://github.com/phileeep/CV/#contact)
+[Projects](#projects) | [Experience](https://github.com/phileeep/CV/#experience) | [Skills](https://github.com/phileeep/CV/#skills) | [Education](https://github.com/phileeep/CV/#education) | [Hobbies](https://github.com/phileeep/CV/#hobbies) | [Contact](https://github.com/phileeep/CV/#contact)
 
 An upcoming full-stack junior web developer.  From my previous work in the past I have found the creativity that you can bring into coding along with the feeling of solving that next problem to be something that has stuck with me. 
 
