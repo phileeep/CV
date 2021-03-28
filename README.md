@@ -64,3 +64,7 @@ That in some arguable way make you a better software developer or well-rounded p
 ## Hobbies
 
 Any cool stuff that makes you a super part of a software development team
+
+## Contact
+- Github: [philsmithies](https://github.com/phileeep/)
+- Codewars [http://www.codewars.com/users/phileeep](http://www.codewars.com/users/phileeep)
