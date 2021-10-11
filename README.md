@@ -18,7 +18,7 @@ I'm motivated to join a team in which I can innovate and grow, contributing my a
 
 | Project   | Description | Time | Technologies |
 |-----------|-------------|-----------|--------------|
-| [shuttr](https://github.com/philsmithies/shuttr)|Photography location discovery application built using the MERN stack. I worked with various location data API's to produce a dynamic app that helps photographers to discover new places they haven't seen in their city. After design meetings, I realised the UI, making it clean and modern. As well as adding the Google Maps API functionality and integrated cloud image hosting. | 2 weeks | Javascript, React, MongoDB, Express, Node.js, CSS, HTML, APIs (Google Maps, Mapbox, React Map GL, Cloudinary, Unsplash), Material-Ui, Passport.js, BCrypt, Yarn |
+| [shuttr](https://github.com/philsmithies/shuttr)|Photography location discovery application built using the MERN stack. I worked with various location data API's to produce a dynamic app that helps photographers to discover new places they haven't seen in their city. After design meetings, I realised the UI, making it clean and modern. As well as adding the Google Maps API functionality and integrated cloud image hosting. | 2 weeks | Javascript, React, MongoDB, Express, Node.js |
 | [Chitter](https://github.com/philsmithies/chitter-react)|A popular social media clone built in NodeJS and React.I handled authentication through the use of JWT's. The application handles CRUD functionality for each user on sign up and receives a feed through Cloudinary and MongoDB integration.| 2 weeks | Javascript, React, Node.js, MongoDB, Heroku|
 
 ## Professional Experience
