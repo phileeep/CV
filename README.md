@@ -81,9 +81,9 @@ BA Hons Fashion Photography
 
 ## Hobbies
 
+- Researching and investing in the world of crypto. I'm interested in how the blockchain will shape our world of the future. 
 - Running: when I'm not at the desk I'm out in the hills.
-- Photography of course.
-- Cooking : I make a pretty good Pho, it's a work in progress.
+- Photography and video editing.
 
 ## Contact
 
