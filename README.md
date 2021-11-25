@@ -4,9 +4,9 @@
 
 [www.philsmithies.dev](https://www.philsmithies.dev/)
 
-This year I have put together a series of full stack MERN applications as well as working collaboratively amongst teams of developers on projects I’m proud to of been a part of. Recently I finished Makers - a highly selective 16 week programming bootcamp - building on my self-led experience since early 2019.  
+Photographer turned software engineer. I gravitated to software engineering naturally through a love of tinkering and after going one rabbit hole after another it led me to Makers - a selective 16-week programming Bootcamp. Through intensive training, I learnt development foundations that would set me up for my career. I collaborated within teams of developers producing multiple full stack applications across different languages and this solidified my self-led learning which I’d started in early 2019. 
 
-In this I built Shuttr in my team over two weeks. It was a photo sharing and location discovery application using React and NodeJS, it allowed users to sign up and post photos which I designed with my team and created the Google Maps API connection that dynamically updated pins from MongoDB. 
+Drawing together a love of Photography and a lack of good locations that I knew of I built 'Shuttr' with my team over two weeks. It was a photo sharing and location discovery application using React and NodeJS, it allowed users to sign up and post photos which I designed with my team and created the Google Maps API connection that dynamically updated pins from MongoDB. 
 
 I combine this technical knowledge with over eight years of freelance photography and videography, during which my creativity was pushed to new heights, working with global brands like Red Bull, AirBnb, and Shazam. Since then I've integrated this creativity into my problem solving which I've used in my development strategies throughout my projects. 
 
